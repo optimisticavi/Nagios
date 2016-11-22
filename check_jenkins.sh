@@ -3,7 +3,7 @@ if ps aux | grep jenkins | grep 8090 >> /dev/null
 
 then
 
-echo "jenkins is running"
+echo "jenkins is perfectly running"
 
 exit 0
 
